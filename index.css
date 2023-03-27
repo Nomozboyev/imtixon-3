@@ -1,0 +1,28 @@
+@media (max-width:560px) {
+    .container-xl{
+    display: flex;
+    flex-direction: column;
+    /* width: 100%; */
+    
+}
+.create_job{
+    width: 100%;
+    display: grid;
+    /* grid-template-columns: 100%; */
+}
+
+}
+.container-xl{
+    position: relative;
+}
+
+.footer_btn{
+    width: 20px;
+    height: 20px;
+    position:sticky;
+    top: 90%;
+    right: 10px;
+    /* bottom:10px; */
+    /* background-color: darkgray; */
+    
+}
